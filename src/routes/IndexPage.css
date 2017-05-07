@@ -1,0 +1,14 @@
+.contain {
+  font-family: Georgia, sans-serif;
+  height: 100%;
+  width: 100%;
+  background-color: #574ab8;
+  background-image: url('../assets/main_bg.jpg');
+}
+
+.connect{
+	width: 100%;
+   	background: #fff;
+    border-radius: 4px;
+    min-height: 750px;
+}

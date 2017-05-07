@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.10.22/gzyy/02_%E5%BC%80%E5%8F%91%E5%8C%BA/170302_%E4%BC%81%E4%B8%9A%E4%BA%91%E7%9B%98%EF%BC%88ECD-GY%EF%BC%89/02_%E4%BB%A3%E7%A0%81/01_%E6%BA%90%E7%A0%81/01_trunk/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AB%AF/yunpan_web" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
